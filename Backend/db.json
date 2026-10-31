@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "name": "wecdiweiu",
+      "email": "akankshasharmas@gmail.com",
+      "contact": "0983243784",
+      "age": "56",
+      "id": "XR38weeBAUM"
+    },
+    {
+      "name": "amfdlkaf",
+      "email": "akankshasharmas777@gmail.com",
+      "contact": "94858742",
+      "password": "392759823785",
+      "id": "l3XpRq5BNDs"
+    },
+    {
+      "name": "rljliohwoef",
+      "email": "owhoeof",
+      "contact": "wiefouwe",
+      "age": "34",
+      "id": "FmKglmDfxLA"
+    },
+    {
+      "name": "akanksha ",
+      "email": "akankshasharmas@gmail.com",
+      "contact": "0983497598743",
+      "age": "45",
+      "id": "2I40sIl0f8o"
+    },
+    {
+      "name": "sjfdcsf",
+      "email": "ajsflh",
+      "contact": "asf",
+      "age": "654",
+      "id": "HPEVpbrkCp0"
+    },
+    {
+      "name": "kanchan",
+      "email": "kankchan@23",
+      "contact": "928u307283",
+      "age": "56",
+      "id": "Bo8z4eGUTtE"
+    },
+    {
+      "name": "kanak",
+      "email": "kanak@gmail.com",
+      "contact": "76563244535",
+      "age": "67",
+      "id": "eevl6f0tzg8"
+    },
+    {
+      "name": "akash",
+      "email": "akashsharma@24gamil.com",
+      "contact": "90729857842",
+      "age": "23",
+      "id": "sSliK1ls8bE"
+    },
+    {
+      "name": "akash sharma ",
+      "email": "akash@24gmail.com",
+      "contact": "9832987324",
+      "age": "24",
+      "id": "ZvUDkK6I0UM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": "Hub0f06gc1U"
+    },
+    {
+      "name": "kanchan",
+      "email": "kanchan@23gamil.com",
+      "password": "092783@kasgd",
+      "id": "4iNjX-WNH0I"
+    },
+    {
+      "email": "akankshasharmas098@gmail.com",
+      "password": "dnckseurw@kdsfew",
+      "id": "NhojKVdl-SM"
+    },
+    {
+      "name": "Madhav",
+      "email": "madhav@gmail.com",
+      "password": "madhaV@24",
+      "id": "uyGZaZw9cNU"
+    },
+    {
+      "name": "Komal Singh ",
+      "email": "komal@45gmail.com",
+      "password": "komal@45",
+      "id": "giRP-8lpAh0"
+    },
+    {
+      "name": "Bhanu Pratap ",
+      "email": "Bhanu@24gmail.com",
+      "password": "bhanu@24",
+      "id": "13IWZr-4e1E"
+    },
+    {
+      "name": "kanak",
+      "email": "kanak@gmail.com",
+      "password": "kanak@49",
+      "id": "QZLL8vpZQv0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

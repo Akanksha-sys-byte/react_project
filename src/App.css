@@ -1,0 +1,63 @@
+/* Global styles for the entire website */
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Responsive for tablet and smaller screens */
+@media screen and (max-width: 1024px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  body {
+    overflow-x: hidden;
+  }
+  img {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width : 2250px){
+  body{
+    overflow-x: hidden;
+  }
+  img{
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  nav,
+  nav > div {
+    max-width: 100%;
+  }
+
+  nav ul {
+    min-width: 0;
+  }
+}
+
+
+/* Responsive for mobile screens */
+@media screen and (max-width: 600px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+@media screen and (max-width: 768px) {
+  .navbar-links {
+    flex: 1;
+    min-width: 0;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: space-around;
+  }
+}
